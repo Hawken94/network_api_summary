@@ -19,7 +19,7 @@
 
 ### HTTP响应
 
-``` javascript
+``` js
 {
     "code": 200,
     "msg": "查询成功",
