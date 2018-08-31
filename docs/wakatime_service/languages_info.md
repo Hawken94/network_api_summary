@@ -1,4 +1,4 @@
-## 1. 获取某个时间段内编程语言耗时(wakatime_service/v1/languages_info/get)
+<!-- ## 1. 获取某个时间段内编程语言耗时(wakatime_service/v1/languages_info/get) -->
 
 ### HTTP请求方式
 
