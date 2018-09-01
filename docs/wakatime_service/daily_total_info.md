@@ -3,8 +3,8 @@
 
 <table>
     <tr>
-        <td>POST </td>
-        <td>wakatime_service/v1/daily_info/get</td>
+        <td>GET </td>
+        <td>wakatime_service/v1/daily_info</td>
     </tr>
 </table>
 

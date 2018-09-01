@@ -4,8 +4,8 @@
 
 <table>
     <tr>
-        <td>POST </td>
-        <td>wakatime_service/v1/editors_info/get</td>
+        <td>GET </td>
+        <td>wakatime_service/v1/editors_info</td>
     </tr>
 </table>
 
